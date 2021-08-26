@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "run": "node main.js"
+  },
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
